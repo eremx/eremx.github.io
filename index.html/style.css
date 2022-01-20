@@ -1,0 +1,36 @@
+*{
+margin:auto;
+padding: 0%;
+border: 0ch;
+}
+
+.img1{
+width: 200px;
+height: 300px;
+position: relative;
+}
+h1{
+margin-top: 200px;
+position: relative;
+color: blue;
+
+text-align: center;
+}
+.img6{
+width: 400px;
+height: 400px;
+text-align: center;
+}
+.p11{
+width: 400px;
+color: brown;
+}
+.img5{
+text-align: center;
+border: 12px dotted yellowgreen;
+
+}
+.p12{
+color: crimson;
+
+}
